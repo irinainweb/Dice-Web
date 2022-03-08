@@ -1,0 +1,45 @@
+.container{
+  text-align: center;
+  margin: auto;
+
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+}
+
+body{
+  background-color: #C1F4C5;
+}
+footer{
+  text-align: center;
+  color: #65C18C;
+}
+img{
+  width: 80%;
+}
+p{
+  font-size: 2rem;
+  color: #65C18C;
+  font-style: oblique;
+}
+h1{
+  font-size: 4rem;
+  margin: 30px;
+  color:#357C3C;
+  font-style: italic;
+}
+button{
+  height: 40px;
+  width: 90px;
+  border: none;
+  margin: 20px 590px ;
+
+  font-style: italic;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  background-color: #357C3C;
+  color: white;
+
+}
